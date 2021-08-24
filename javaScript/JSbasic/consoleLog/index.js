@@ -1,0 +1,5 @@
+console.log("Olá Mundo") 
+console.log('Olá Mundo') 
+console.log('"Olá Mundo"') 
+console.log(`"'Olá Mundo'"`) 
+console.log('String', 10 , "Olá Mundo") 
