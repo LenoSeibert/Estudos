@@ -1,3 +1,6 @@
+//AS VARIÁVEIS DEVEM TER NOMES SIGNIFICATIVOS
+//PARA FACILITAR A LEITURA DO CÓDIGO
+
 /**Variáveis 
  * var foi descontinuado
  * let 
